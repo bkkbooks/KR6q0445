@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0445_000-J.yaml, hash: 'sha256:b61c98ca23cae61d8e8a0038e1ca5ad023cb3db02da815997968fd4e03a0b26b'}
+  - {seq: 0, filename: KR6q0445_000-J.yaml, hash: 'sha256:fbfb8b3fc8e0fb292fd212ade8262579a4637a48ca7ff7820469ae38a7bb3932'}
   - {seq: 1, filename: KR6q0445_001-J.yaml, hash: 'sha256:c94aef574bcf76a7194f7c346cb92936bd1895de2654b46fbd0b68fa1cae5247'}
   - {seq: 2, filename: KR6q0445_002-J.yaml, hash: 'sha256:caab96077d48a37b29c0175f98b9dcc71107f265b3c311953844613d58307aed'}
   - {seq: 3, filename: KR6q0445_003-J.yaml, hash: 'sha256:b10e2ec3ec0e3ca787054c2be4d92b92b58a52aed06e0944e3d35a6a67679d33'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0445_005-J.yaml, hash: 'sha256:fdcd9bdca6e53117319fab546add7d4ff9f327a07d7e6d0c2f3d8b75fba4a1e6'}
   - {seq: 6, filename: KR6q0445_006-J.yaml, hash: 'sha256:6a8df4ae4b19eba535a377ea356fb0a83e4dbed3c4f7bd2b8392e35d9dcf2078'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0445_000-J.markers.yaml, hash: 'sha256:b6e2d9e40656db6c11be88ae9034144ff526c7dfb3e0fc40307c79313e5f8755'}
+  - {seq: 0, role: markers, filename: assets/KR6q0445_000-J.markers.yaml, hash: 'sha256:fc0968fe8dada226e837148e2742003a1d7aaad4d9cd320f4333a34dc69a9e15'}
   - {seq: 1, role: markers, filename: assets/KR6q0445_001-J.markers.yaml, hash: 'sha256:060f32ffa169c82793c6ca900e3ddff537207ed3c32e14b34c1a26dd9fd8af29'}
   - {seq: 2, role: markers, filename: assets/KR6q0445_002-J.markers.yaml, hash: 'sha256:178ee40b3621884ae81b45b7ee6d3518bb5f2b6c56312f39ec639b161c6b0686'}
   - {seq: 3, role: markers, filename: assets/KR6q0445_003-J.markers.yaml, hash: 'sha256:f887783bf78454b31439fe8423bc8ff7f7b3fd93e71632bb220e3ddab8d62879'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0445_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0445_J_000-mulu-2
     span:
-    - front
+    - body
     - 251
     - 251
   label: 目錄
@@ -2515,4 +2515,4 @@ table_of_contents:
   label: 為獻珩耆宿下火
   type: mulu
   level: 1
-hash: sha256:6b56c7c5e46992059fd8a97a545aa950a1f0c876f5fcfdf59e0e99684db3bcae
+hash: sha256:9130bdeac123c34be57e74575d84c29cb5c5e721a5af578f4eacc59a56efe1f7
